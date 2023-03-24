@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=venxn&icon=7&color=1)](https://visitcount.itsvg.in)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enescelebi__)
-<img src="https://media3.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif?cid=ecf05e47b1vhi2z0w5zhz2btg68h3fbdzugld9fj7ruh1nck&rid=giphy.gif&ct=g" align="right" width="300" height="700">
+<img src="https://media3.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif?cid=ecf05e47b1vhi2z0w5zhz2btg68h3fbdzugld9fj7ruh1nck&rid=giphy.gif&ct=g" align="right" width="300" height="1100">
 ---
 
 ## 🚀 Hakkımda
