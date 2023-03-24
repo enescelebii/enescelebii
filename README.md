@@ -2,7 +2,8 @@
 ## Hi i'm Enes Çelebi ⚡ I’m currently learning C 
 <img src="https://media3.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif?cid=ecf05e47b1vhi2z0w5zhz2btg68h3fbdzugld9fj7ruh1nck&rid=giphy.gif&ct=g" align="right" width="300" height="700">
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="60" height="60" />
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=venxn&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=venxn&theme=radical&hide_border=false)<br/>
