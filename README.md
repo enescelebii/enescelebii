@@ -17,13 +17,12 @@
 - Programlama Dilleri: 
 - <img src="https://imag.malavida.com/mvimgbig/download-fs/dev-c-5018-0.jpg" width="60" height="60" />
 - Yazılım Geliştirme Araçları: Embarcadero dev c++, Git, GitHub
+## 📱 Bana Ulaşın
+
+[2110206007@ogrenci.karabuk.edu.tr](mailto:2110206007@ogrenci.karabuk.edu.tr)
 
 ## 📈 GitHub İstatistikleri
 
 ![](https://github-readme-stats.vercel.app/api?username=venxn&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=venxn&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=venxn&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 📱 Bana Ulaşın
-
-E-posta: [2110206007@ogrenci.karabuk.edu.tr](mailto:2110206007@ogrenci.karabuk.edu.tr)
