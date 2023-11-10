@@ -2,7 +2,7 @@
 <img src="https://media3.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif?cid=ecf05e47b1vhi2z0w5zhz2btg68h3fbdzugld9fj7ruh1nck&rid=giphy.gif&ct=g" align="right" width="340" height="850">
 
 ## 🚀 Hakkımda
-
+- 2110206007
 - Karabük Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 - Şu anda "C" programlama dili üzerinde çalışıyorum.
 - GitHub hesabımda açık kaynaklı projelerimi paylaşıyorum.
