@@ -9,7 +9,7 @@
 
 ## 🛠️ Teknolojiler ve Araçlar
 - Programlama Dilleri: 
-- C , JAVA , HTML , CSS , JAVASCRIPT , PYTHON , PHP , Laravel ,
+- C , JAVA , HTML , CSS , JAVASCRIPT , PYTHON , PHP , Laravel , JAVA SPRİNG BOOT
 ## 📱 Bana Ulaşın
 
 [2110206007@ogrenci.karabuk.edu.tr](mailto:2110206007@ogrenci.karabuk.edu.tr)
