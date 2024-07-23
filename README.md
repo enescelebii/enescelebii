@@ -7,10 +7,8 @@
 - Şu anda Backend ve Frontend birlikte olacak şekilde programlama dilleri üzerinde çalışıyorum.
 - GitHub hesabımda açık kaynaklı projelerimi paylaşıyorum.
 
-
 ## 🛠️ Teknolojiler ve Araçlar
 - Programlama Dilleri: 
-- <img src="https://imag.malavida.com/mvimgbig/download-fs/dev-c-5018-0.jpg" width="60" height="60" />
 - C , JAVA , HTML , CSS , JAVASCRIPT , PYTHON , PHP , Laravel ,
 ## 📱 Bana Ulaşın
 
