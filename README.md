@@ -13,6 +13,7 @@
 ## 📱 Bana Ulaşın
 
 [2110206007@ogrenci.karabuk.edu.tr](mailto:2110206007@ogrenci.karabuk.edu.tr)
+[enescelebi222@gmail.com](mailto:enescelebi222@gmail.com)
 
 ## 📈 GitHub İstatistikleri
 ![](https://github-readme-streak-stats.herokuapp.com/?user=enescelebii&theme=radical&hide_border=false)<br/>
