@@ -4,7 +4,7 @@
 ## 🚀 Hakkımda
 -[Linkedln](https://www.linkedin.com/in/enes-%C3%A7elebi-940508286/)
 - Karabük Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
-- Şu anda Backend ve Frontend birlikte olacak şekilde programlama dilleri üzerinde çalışıyorum.
+- Şu anda Backend, DevOps ve Cloud olacak şekilde Kendimi Geliştirmekteyim.
 - GitHub hesabımda açık kaynaklı projelerimi paylaşıyorum.
 
 ## 🛠️ Teknolojiler ve Araçlar
